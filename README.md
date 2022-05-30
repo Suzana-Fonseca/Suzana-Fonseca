@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="https://criarmeulink.com.br/u/1647187186" alt="Gmail">
+  <a href="mailto:ssfonseca.93@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/suzana-fonseca/" alt="Linkedin">
